@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Fimple React Practicum First Case
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Yayınlandı: https://630deb04dad2303a2fb8d907--startling-pony-d48e8e.netlify.app/
 
-## Available Scripts
+## Açılış ekranı
 
-In the project directory, you can run:
+![fimple2](https://user-images.githubusercontent.com/36435160/187488048-e5d28cb2-d424-4437-b978-6726aed109cb.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## X Kazanma durumu
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![fimple3](https://user-images.githubusercontent.com/36435160/187488137-6a295daf-8bc2-4f19-8046-ea643bbbdb63.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## O Kazanma Durumu
 
-### `npm run build`
+![fimple4](https://user-images.githubusercontent.com/36435160/187488207-8d05d10c-8d37-487c-8abe-2da98869ff6b.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Beraberlik durumu
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![fimple1](https://user-images.githubusercontent.com/36435160/187488256-20c63095-a174-482c-8e1d-610a7f0257bb.png)
 
-### `npm run eject`
+## Kod ve detaylı açıklamaları
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![kod1](https://user-images.githubusercontent.com/36435160/187489348-f9486649-88c2-4aa5-8ccd-f475451730fd.png)
+![kod2](https://user-images.githubusercontent.com/36435160/187489364-00f9573c-fe32-4101-ba4c-169c6d829864.png)
+![kod3](https://user-images.githubusercontent.com/36435160/187489380-bc1132d9-4ffa-48fb-a8f8-3dbdc883c3c0.png)
+![kod4](https://user-images.githubusercontent.com/36435160/187489394-2e99d89a-41b3-4119-91dc-43dc856dd376.png)
